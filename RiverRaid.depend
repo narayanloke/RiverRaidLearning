@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1709660165 source:/home/lokesaheb/raylibproj/RiverRaid/main.cpp
+	"raylib.h"
+
+1709655199 /home/lokesaheb/raylib/src/raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
